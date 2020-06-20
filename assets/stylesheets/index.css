@@ -7,7 +7,7 @@
 
 /* body {
   text-align: center;
-} */ */
+} */ 
 
 h1 {
   color: white;
@@ -19,7 +19,6 @@ h2 {
 
 p {
   color: white;
-  font-size: medium;
 }
 
 /* Google Fonts */
@@ -51,12 +50,9 @@ strong {
   font-weight: 700;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
-
 .slogan {
   font-size: 30px;
 }
-
 
 .footer {
   position: fixed;
