@@ -7,9 +7,9 @@ var typewriter = new Typewriter(app, {
 
 typewriter
   .pauseFor(2000)
-  .typeString('Hello, I\'m Leuan')
+  .typeString('Hello, I\'m Leuan.')
   .pauseFor(300)
-  .deleteChars(5)
-  .typeString('Ieuan')
+  .deleteChars(6)
+  .typeString('Ieuan.')
   .pauseFor(1000)
   .start();
